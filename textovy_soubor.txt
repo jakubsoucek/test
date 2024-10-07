@@ -1,7 +1,6 @@
 aaaaaaaa
 bbbbbbbb
 zmena na radku s ceckama
-cccccccc
 ddd
 eee
 ffffffff
